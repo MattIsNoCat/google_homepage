@@ -1,0 +1,1 @@
+This project is going to be about making a webpage that is visually similar to the google homepage. For this, I will be using developer tools found in my browser, as well as my knowledge of html and CSS. Completing this project will show my understanding of html, CSS and the developer tools found in browsers.
