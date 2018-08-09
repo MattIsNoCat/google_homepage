@@ -1,0 +1,124 @@
+* {
+  font-family: Arial;
+}
+
+.header {
+  float: right;
+  display: inline;
+  box-sizing: content-box;
+}
+
+#squares {
+  display: inline-block;
+  max-height: 1em;
+  max-width: 1em;
+  vertical-align: middle;
+}
+
+.header a {
+  font-size: 0.7em;
+  margin: 1em 1em;
+  text-decoration: none;
+  color: black;
+}
+
+.logo_container {
+  left: 0px;
+  right: 0px;
+  position: absolute;
+}
+
+.logo {
+  padding-top: 189px;
+  display: block;
+  max-width: 15em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.main {
+  margin-top: 280px;
+  display: block;
+  max-width: 30em;
+  box-sizing: content-box;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.main p {
+  text-align: center;
+  padding-top: 2em;
+}
+
+.main p a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+.main form input {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30em;
+  height: 2em;
+  font-size: 16; 
+}
+
+.main form button {
+  display: inline;
+  margin-left: 2em;
+  width: 12em;
+  height: 2em;
+}
+
+.main .buttons {
+  margin-left: 4.5em;
+}
+
+.logo {
+  width: 70%;
+}
+
+.first_footer {
+  position: absolute;
+  margin-bottom: 1em;
+  bottom: 1em;
+  background-color: #f2f2f2;
+  left: 0;
+  right: 0;
+  border: 1px solid #eaeaea;
+}
+
+.first_footer p {
+  margin-left: 2em;
+  color: #717171;
+  font-size: small;
+}
+
+.second_footer {
+  position: absolute;
+  margin-bottom: 0em;
+  bottom: 0em;
+  left: 0px;
+  right: 0px;
+  background-color: #f2f2f2;
+  height: 2em;
+}
+
+.second_footer .left_footer {
+  float: left;
+  margin: 0 1em;
+}
+
+.second_footer .right_footer {
+  float: right;
+  margin: 0 1em;
+}
+
+.second_footer a {
+  text-decoration-line: none;
+  color: #717171;
+  font-size: small;
+  padding: 0 1em;
+}
